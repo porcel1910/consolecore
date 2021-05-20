@@ -1,0 +1,11 @@
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.deps.json
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.runtimeconfig.json
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.runtimeconfig.dev.json
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.dll
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.pdb
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csprojAssemblyReference.cache
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csproj.CoreCompileInputs.cache
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.AssemblyInfoInputs.cache
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.AssemblyInfo.cs
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.dll
+C:\Users\Guto\Documents\ProjetoGuit\consolecore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.pdb
